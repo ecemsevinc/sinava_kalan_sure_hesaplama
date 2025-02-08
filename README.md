@@ -13,12 +13,12 @@
 <p>3.Program, iki tarih arasındaki farkı hesaplar ve ekrana yazdırır.Saniye farkını da ekrana yazdırır.</p>
 <p>4.Eğer sınav tarihi geçmişse, ekrana "Sınav tarihi geçmiş!" uyarısı verilir.</p>
 <h3>Örnek Çıktı:</h3>
-<p>24 Mart 2025 tarihinde saat 10.00.00'da olan bir sınava 8 Şubat 2025 15.00.00'dan itibaren ne kadar kaldığını hesaplamak istersek çıktısı şu şekilde olacaktır:</p>
-<p><b>Tarih ve saat giriniz (Yil Ay Gun Saat Dakika Saniye):<br>
+<p>21 Haziran 2025 tarihinde saat 10.00.00'da olan bir sınava 8 Şubat 2025 15.00.00'dan itibaren ne kadar kaldığını hesaplamak istersek çıktısı şu şekilde olacaktır:</p>
+<p><b>Tarih ve saat giriniz (Yil Ay Gun Saat Dakika Saniye): <br>
 2025 02 08 15 00 00 <br>
-Tarih ve saat giriniz (Yil Ay Gun Saat Dakika Saniye): <br>
-2025 03 24 10 00 00 <br>
+Tarih ve saat giriniz (Yil Ay Gun Saat Dakika Saniye):<br>
+2025 06 21 10 00 00 <br>
 Guncel Tarihin Epoch Zamani: 1739016000 <br>
-Sinav Tarihin Epoch Zamani: 1742799600 <br>
-Sinava kalan sure: 43 gun, 19 saat, 0 dakika, 0 saniye <br>
-Iki tarih arasindaki epoch fark:3783600 saniye</b></p>
+Sinav Tarihin Epoch Zamani: 1750489200 <br>
+Sinava kalan sure: 132 gun, 19 saat, 0 dakika, 0 saniye <br>
+Iki tarih arasindaki epoch fark:11473200 saniye</b></p>
