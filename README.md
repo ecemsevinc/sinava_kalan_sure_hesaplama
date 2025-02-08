@@ -15,8 +15,8 @@
 <h3>Örnek Çıktı:</h3>
 <p>24 Mart 2025 tarihinde saat 10.00.00'da olan bir sınava 8 Şubat 2025 15.00.00'dan itibaren ne kadar kaldığını hesaplamak istersek çıktısı şu şekilde olacaktır:</p>
 <p><b>Tarih ve saat giriniz (Yil Ay Gun Saat Dakika Saniye):<br>
-2025 02 08 15 00 00
-Tarih ve saat giriniz (Yil Ay Gun Saat Dakika Saniye):
+2025 02 08 15 00 00 <br>
+Tarih ve saat giriniz (Yil Ay Gun Saat Dakika Saniye): <br>
 2025 03 24 10 00 00 <br>
 Guncel Tarihin Epoch Zamani: 1739016000 <br>
 Sinav Tarihin Epoch Zamani: 1742799600 <br>
