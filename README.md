@@ -1,0 +1,1 @@
+# sinava_kalan_sure_hesaplama
